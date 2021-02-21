@@ -5,7 +5,7 @@ Japanese guide I used: http://zarala.g2.xrea.com/koneta/dengo/dengo_win8.html
 Controller mod for DdG P&P: https://github.com/GMMan/dengo-plug-and-play-controller  
 dgVoodoo2 http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/  
 DdG Discord: https://discord.me/denshadegounofficial  
-
+Controller documentation: https://marcriera.github.io/ddgo-controller-docs/  
 #### General:  
 I set my Windows 10 regional options to Japan to work around potential issues with installers and just left it that way because I don't mind.  
 The following compatibility options were used for installing if not stated otherwise:  
