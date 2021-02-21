@@ -32,8 +32,14 @@ To activate dgVoodoo2 copy the following .dll files from the directory dgVoodoo2
 
 ###  __Densha de Go! 3__
 * dgVoodoo2 needed: Yes - otherwise the game does not run fullscreen and HUD textures are not shown. Needs extra configuration.
-* Works with controller modded DdG P&P?: Yes, calibration needed - but I can't calibrate the brake correctly somehow.
-* Standard installation path: c:\Program Files (x86)\UNBALANCE\H_Dengo3\
+* Works with controller modded DdG P&P?: Yes, calibration needed.
+* Standard installation path: c:\Program Files (x86)\UNBALANCE\H_Dengo3\  
+* To enable a fps counter add the following key to your registry:  
+Path: HKEY_CURRENT_USER\SOFTWARE\TAITO\電車でＧＯ！３
+Key type: DWORD (32-bit)  
+Key name: showframe  
+Key value: 1  
+Set key value to 0 or delete it to disable the counter again.  
 * Game Settings:  
 ![Image of dengo3](Pictures/dengo3_settings.PNG)  
 * Advanced game settings:  
