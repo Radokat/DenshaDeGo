@@ -35,7 +35,7 @@ To activate dgVoodoo2 copy the following .dll files from the directory dgVoodoo2
 * Works with controller modded DdG P&P?: Yes, calibration needed.
 * Standard installation path: c:\Program Files (x86)\UNBALANCE\H_Dengo3\  
 * To enable a fps counter add the following key to your registry:  
-Path: HKEY_CURRENT_USER\SOFTWARE\TAITO\電車でＧＯ！３
+Path: HKEY_CURRENT_USER\SOFTWARE\TAITO\電車でＧＯ！３  
 Key type: DWORD (32-bit)  
 Key name: showframe  
 Key value: 1  
