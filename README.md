@@ -27,7 +27,7 @@ To activate dgVoodoo2 copy the following .dll files from the directory dgVoodoo2
 ### __Densha de Go! Professional__
 * dgVoodoo2 needed: Yes - otherwise some HUD elements will flicker or fonts will behave strangely in high quality mode.  
 Ignore the error when closing the game.
-* Works with "Controller modded DdG P&P?: No
+* Works with controller modded DdG P&P?: No
 * Standard installation path: c:\Program Files (x86)\TAITO\DengoP\
 * Game Settings:  
 ![Image of dengop](Pictures/dengop_settings.PNG)  
@@ -43,7 +43,23 @@ Be sure not to enable the right option as it makes the text to look weird.
 * Works with controller modded DdG P&P?: Yes
 * Game Settings:  
 ![Image of dengop2](Pictures/dengop2_settings.PNG)  
-High quality mode (top left)  
 
 * Advanced game settings:  
 ![Image of dengop2 advanced](Pictures/dengop2_adv_settings.PNG)  
+
+
+### __Densha de Go! Final__
+* dgVoodoo2 needed: No
+* Works with controller modded DdG P&P?: Yes
+* No compatibility settings needed for installation
+* To enable 60fps add the following key to your registry:  
+Path: HKEY_CURRENT_USER\SOFTWARE\TAITO\電車でＧＯ！ＦＩＮＡＬ  
+Key type: DWORD (32-bit)  
+Key name: frameskip  
+Key value: 0  
+* To enable a fps counter add the following key to your registry:  
+Path: HKEY_CURRENT_USER\SOFTWARE\TAITO\電車でＧＯ！ＦＩＮＡＬ  
+Key type: DWORD (32-bit)  
+Key name: showframe  
+Key value: 1  
+Set key value to 0 or delete it to disable the counter again.  
