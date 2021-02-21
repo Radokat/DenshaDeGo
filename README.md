@@ -112,6 +112,9 @@ Set key value to 0 or delete it to disable the counter again.
 * dgVoodoo2 needed: No
 * Works with controller modded DdG P&P?: Yes, but not recommended since you lose speed settings compared to the keyboard (5 vs 12).
 * No compatibility settings needed for installation
+* To enable a fps counter change the following key in your registry from 0 to 1:  
+Path: HKEY_CURRENT_USER\SOFTWARE\TAITO\電車でＧＯ！新幹線 山陽新幹線編
+Key name: showframerate  
 * Game Settings:  
 ![Image of dengop_shin](Pictures/dengo_shin_settings.PNG)  
 * Advanced game settings:  
