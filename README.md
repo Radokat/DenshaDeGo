@@ -43,7 +43,6 @@ Be sure not to enable the right option as it makes the text to look weird.
 * Works with controller modded DdG P&P?: Yes
 * Game Settings:  
 ![Image of dengop2](Pictures/dengop2_settings.PNG)  
-
 * Advanced game settings:  
 ![Image of dengop2 advanced](Pictures/dengop2_adv_settings.PNG)  
 
@@ -63,3 +62,7 @@ Key type: DWORD (32-bit)
 Key name: showframe  
 Key value: 1  
 Set key value to 0 or delete it to disable the counter again.  
+* Game Settings:  
+![Image of dengop2](Pictures/dengofinal_settings.PNG)  
+* Advanced game settings:  
+![Image of dengop2 advanced](Pictures/dengofinal_adv_settings.PNG)  
