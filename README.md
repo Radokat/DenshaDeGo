@@ -40,6 +40,7 @@ Be sure not to enable the right option as it makes the text to look weird.
 ### __Densha de Go! Professional 2__
 * dgVoodoo2 needed: No
 * Works with controller modded DdG P&P?: Yes
+* Standard installation path: c:\Program Files (x86)\TAITO\dgopro2\
 * Game Settings:  
 ![Image of dengop2](Pictures/dengop2_settings.PNG)  
 * Advanced game settings:  
@@ -50,6 +51,7 @@ Be sure not to enable the right option as it makes the text to look weird.
 * dgVoodoo2 needed: No
 * Works with controller modded DdG P&P?: Yes
 * No compatibility settings needed for installation
+* Standard installation path: c:\Program Files (x86)\TAITO\perfect\
 * To enable 60fps add the following key to your registry:  
 Path: HKEY_CURRENT_USER\SOFTWARE\TAITO\電車でＧＯ！ＦＩＮＡＬ  
 Key type: DWORD (32-bit)  
