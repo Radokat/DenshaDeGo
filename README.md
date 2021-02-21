@@ -18,6 +18,12 @@ To activate dgVoodoo2 copy the following .dll files from the directory dgVoodoo2
 * D3DImm.dll
 * DDraw.dll
 
+###  __Densha de Go!__
+* dgVoodoo2 needed: Yes - otherwise the game does not run fullscreen and the bottom part of the game is not shown.
+* Works with controller modded DdG P&P?: No
+* Standard installation path: c:\Program Files (x86)\UNBALANCE\V_dengo2\  
+
+
 ###  __Densha de Go! 2__
 * dgVoodoo2 needed: Yes - otherwise the game does not run fullscreen and the bottom part of the game is not shown.
 * Works with controller modded DdG P&P?: No
