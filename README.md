@@ -18,18 +18,18 @@ To activate dgVoodoo2 copy the following .dll files from the directory dgVoodoo2
 * D3DImm.dll
 * DDraw.dll
 
-####  __Densha de Go! 2__
+###  __Densha de Go! 2__
 * dgVoodoo2 needed: Yes - otherwise the game does not run fullscreen and the bottom part of the game is not shown.
 * Works with "Controller modded DdG P&P?: No
 * Standard installation path: c:\Program Files (x86)\UNBALANCE\V_dengo2\  
 
 
-## Densha de Go! Professional
+### __Densha de Go! Professional__
 
 * dgVoodoo2 needed: Yes - otherwise some HUD elements will flicker or fonts will behave strangely in high quality mode. Ignore error on game close.
-Works with "Controller modded DdG P&P?: No
+* Works with "Controller modded DdG P&P?: No
 * Standard installation path: c:\Program Files (x86)\TAITO\DengoP\
-* Game Settings:  
+* Game Settings:
 ![Image of dengop](Pictures/dengop_settings.PNG)  
 High quality mode (top left)  
 
