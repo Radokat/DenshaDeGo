@@ -20,28 +20,30 @@ To activate dgVoodoo2 copy the following .dll files from the directory dgVoodoo2
 
 ###  __Densha de Go! 2__
 * dgVoodoo2 needed: Yes - otherwise the game does not run fullscreen and the bottom part of the game is not shown.
-* Works with "Controller modded DdG P&P?: No
+* Works with controller modded DdG P&P?: No
 * Standard installation path: c:\Program Files (x86)\UNBALANCE\V_dengo2\  
 
 
 ### __Densha de Go! Professional__
-
-* dgVoodoo2 needed: Yes - otherwise some HUD elements will flicker or fonts will behave strangely in high quality mode. Ignore error on game close.
+* dgVoodoo2 needed: Yes - otherwise some HUD elements will flicker or fonts will behave strangely in high quality mode.  
+Ignore the error when closing the game.
 * Works with "Controller modded DdG P&P?: No
 * Standard installation path: c:\Program Files (x86)\TAITO\DengoP\
-* Game Settings:
+* Game Settings:  
 ![Image of dengop](Pictures/dengop_settings.PNG)  
 High quality mode (top left)  
 
 * Advanced game settings:  
-![Image of dengop](Pictures/dengop_adv_settings.PNG)  
+![Image of dengop advanced](Pictures/dengop_adv_settings.PNG)  
 Be sure not to enable the right option as it makes the text to look weird.  
 
 
-## Densha de Go! Professional 2
-dgVoodoo2 needed: No
-Works with "Controller modded DdG P&P?: Yes
-Settings for installation:
-<pic>
-Settings for the game:
-<pic>
+### __Densha de Go! Professional 2__
+* dgVoodoo2 needed: No
+* Works with controller modded DdG P&P?: Yes
+* Game Settings:  
+![Image of dengop2](Pictures/dengop2_settings.PNG)  
+High quality mode (top left)  
+
+* Advanced game settings:  
+![Image of dengop2 advanced](Pictures/dengop2_adv_settings.PNG)  
