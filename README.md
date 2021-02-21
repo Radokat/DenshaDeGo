@@ -27,7 +27,17 @@ To activate dgVoodoo2 copy the following .dll files from the directory dgVoodoo2
 ###  __Densha de Go! 2__
 * dgVoodoo2 needed: Yes - otherwise the game does not run fullscreen and the bottom part of the game is not shown.
 * Works with controller modded DdG P&P?: No
-* Standard installation path: c:\Program Files (x86)\UNBALANCE\V_dengo2\  
+* Standard installation path: c:\Program Files (x86)\UNBALANCE\V_dengo2\
+
+
+### __Densha de Go! Nagoya Railroad__
+* dgVoodoo2 needed: Yes - otherwise some HUD elements will flicker or fonts will behave strangely in high quality mode.  
+* Works with controller modded DdG P&P?: No
+* Standard installation path: c:\Program Files (x86)\TAITO\DengoM\
+* Game Settings:  
+![Image of dengom](Pictures/dengom_settings.PNG)  
+![Image of dengom advanced](Pictures/dengom_adv_settings.PNG)  
+Be sure not to enable the right option as it makes the text to look weird.  
 
 
 ### __Densha de Go! Professional__
