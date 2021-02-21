@@ -1,8 +1,8 @@
 # DenshaDeGo
 Notes for running the Densha de go games on Windows 10.  
 
-Japanese guide I based this on: http://zarala.g2.xrea.com/koneta/dengo/dengo_win8.html  
-Controller Mod for DdG P&P: https://github.com/GMMan/dengo-plug-and-play-controller  
+Japanese guide I used: http://zarala.g2.xrea.com/koneta/dengo/dengo_win8.html  
+Controller mod for DdG P&P: https://github.com/GMMan/dengo-plug-and-play-controller  
 dgVoodoo2 http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/  
 DdG Discord: https://discord.me/denshadegounofficial  
 
@@ -32,7 +32,6 @@ Ignore the error when closing the game.
 * Game Settings:  
 ![Image of dengop](Pictures/dengop_settings.PNG)  
 High quality mode (top left)  
-
 * Advanced game settings:  
 ![Image of dengop advanced](Pictures/dengop_adv_settings.PNG)  
 Be sure not to enable the right option as it makes the text to look weird.  
