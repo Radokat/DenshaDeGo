@@ -106,3 +106,15 @@ Set key value to 0 or delete it to disable the counter again.
 ![Image of dengop2](Pictures/dengofinal_settings.PNG)  
 * Advanced game settings:  
 ![Image of dengop2 advanced](Pictures/dengofinal_adv_settings.PNG)  
+
+
+### __Densha de Go! Shinkansen Sanyo Shinkansen-hen__  
+* dgVoodoo2 needed: No
+* Works with controller modded DdG P&P?: Yes, but not recommended since you lose speed settings compared to the keyboard (5 vs 12).
+* No compatibility settings needed for installation
+* Game Settings:  
+![Image of dengop_shin](Pictures/dengo_shin_settings.PNG)  
+* Advanced game settings:  
+![Image of dengop_shin advanced](Pictures/dengo_shin_adv_settings.PNG)  
+
+
