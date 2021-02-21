@@ -36,6 +36,8 @@ To activate dgVoodoo2 copy the following .dll files from the directory dgVoodoo2
 * Standard installation path: c:\Program Files (x86)\TAITO\DengoM\
 * Game Settings:  
 ![Image of dengom](Pictures/dengom_settings.PNG)  
+High quality mode (top left) 
+* Advanced game settings:  
 ![Image of dengom advanced](Pictures/dengom_adv_settings.PNG)  
 Be sure not to enable the right option as it makes the text to look weird.  
 
@@ -46,7 +48,7 @@ Ignore the error when closing the game.
 * Works with controller modded DdG P&P?: No
 * Standard installation path: c:\Program Files (x86)\TAITO\DengoP\
 * Game Settings:  
-![Image of dengop](Pictures/dengop_settings.PNG)  
+![Image of dengop](Pictures/dengop_settings.PNG)   
 High quality mode (top left)  
 * Advanced game settings:  
 ![Image of dengop advanced](Pictures/dengop_adv_settings.PNG)  
